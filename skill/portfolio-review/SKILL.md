@@ -76,6 +76,39 @@ Prioritized:
 
 Each item says where and how to change it. Where useful, give a concrete rewrite — e.g. a rewritten TL;DR or case opening in their voice.
 
+## Step 6 — Self-check checklist
+
+End with a short checklist the person can scan in under a minute now, and reuse on their own after they revise. Mark each item with its status from this review:
+
+- ✅ done — meets the bar
+- ⚠️ partly — present but weak
+- ❌ missing — not there or clearly failing
+- ➖ couldn't check — not visible in what was shared
+
+Keep every item to one line, written as a yes/no question the person can answer about their own portfolio. For ⚠️ and ❌ items, add a few words on what's missing (e.g. "Case 2 has no TL;DR"). Use this list, adjusting wording to their target level:
+
+**Overall**
+- [ ] Homepage says who I am, what I do and what role I want, within 10 seconds
+- [ ] 2–4 projects, the most relevant to my target role first
+- [ ] Portfolio itself is clean: consistent type, clear hierarchy, no typos, works on mobile
+- [ ] All links and images load; no password walls for reviewers (or password provided)
+
+**Every case study**
+- [ ] Opens with a TL;DR: context, my role, team, timeline, outcome
+- [ ] States the problem and why it mattered to users and the business
+- [ ] Makes clear what *I* did versus what the team did
+- [ ] Shows at least one real decision: options considered, what I chose, why
+- [ ] Names the constraints (technical, time, business) and how I worked within them
+- [ ] Research or data visibly changed the design, not just listed as process
+- [ ] Final design shows craft, including edge states (empty / error / loading)
+- [ ] Ends with outcome — metrics if shipped, or honest reflection if not
+- [ ] Skimmable: a reader gets the story from headings and visuals alone
+
+**Level fit**
+- [ ] The work shows the scope expected at my target level
+
+Then add one line: *"Re-run this checklist after each round of edits — anything still ⚠️ or ❌ is where to focus next."*
+
 ## Output format
 
 1. Overall verdict: one paragraph + overall score out of 10
@@ -84,6 +117,7 @@ Each item says where and how to change it. Where useful, give a concrete rewrite
 4. Red flags found
 5. Level calibration
 6. Action list
-7. Close by offering a deeper pass on one case, or a mock interview on the likely follow-up questions
+7. Self-check checklist
+8. Close by offering a deeper pass on one case, or a mock interview on the likely follow-up questions
 
 Tone: honest and direct like a real hiring manager — no empty praise, always explain why something is a problem. Base every judgment on what they provided.

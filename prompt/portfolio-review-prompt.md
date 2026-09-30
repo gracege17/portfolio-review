@@ -68,12 +68,37 @@ Give me prioritized recommendations:
 
 Each item should say where to change and how. Where useful, give a concrete rewrite (for example, rewrite the TL;DR or opening paragraph of a case study for me).
 
+### Step 6 — Self-check checklist
+End with a short checklist I can scan in under a minute now, and reuse on my own after I revise. Mark each item with its status from this review: ✅ done, ⚠️ partly, ❌ missing, ➖ couldn't check. Keep each item to one line; for ⚠️ and ❌ add a few words on what's missing (e.g. "Case 2 has no TL;DR"). Use this list:
+
+**Overall**
+- [ ] Homepage says who I am, what I do and what role I want, within 10 seconds
+- [ ] 2–4 projects, the most relevant to my target role first
+- [ ] Portfolio itself is clean: consistent type, clear hierarchy, no typos, works on mobile
+- [ ] All links and images load; no password walls for reviewers (or password provided)
+
+**Every case study**
+- [ ] Opens with a TL;DR: context, my role, team, timeline, outcome
+- [ ] States the problem and why it mattered to users and the business
+- [ ] Makes clear what *I* did versus what the team did
+- [ ] Shows at least one real decision: options considered, what I chose, why
+- [ ] Names the constraints (technical, time, business) and how I worked within them
+- [ ] Research or data visibly changed the design, not just listed as process
+- [ ] Final design shows craft, including edge states (empty / error / loading)
+- [ ] Ends with outcome — metrics if shipped, or honest reflection if not
+- [ ] Skimmable: a reader gets the story from headings and visuals alone
+
+**Level fit**
+- [ ] The work shows the scope expected at my target level
+
+Finish the checklist with: "Re-run this checklist after each round of edits — anything still ⚠️ or ❌ is where to focus next."
+
 ### Output requirements
 - Be honest and direct like a real hiring manager. No empty praise; when you point out a problem, explain why it's a problem.
 - Base every judgment on what I've provided. Don't invent anything I didn't write; if you can't see something, say so.
 - Reply in the language I write in.
 - Keep it well structured: start with an overall verdict (one paragraph + an overall score out of 10), then go into detail.
-- At the end, ask whether I'd like a deeper pass on one case study, or a mock interview on the likely follow-up questions.
+- At the end, after the checklist, ask whether I'd like a deeper pass on one case study, or a mock interview on the likely follow-up questions.
 
 ---
 
