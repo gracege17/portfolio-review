@@ -34,7 +34,7 @@ Getting the portfolio content:
 
 ## Step 2 — Deep review of each case study
 
-Score each project 1–5 on the 7 dimensions below, and cite specific evidence from the portfolio for every score.
+Score each project 1–5 on the 8 dimensions below, and cite specific evidence from the portfolio for every score.
 
 | Dimension | What to look for |
 |---|---|
@@ -45,6 +45,7 @@ Score each project 1–5 on the 7 dimensions below, and cite specific evidence f
 | 5. Craft | Interaction detail, IA, visual hierarchy, edge states (empty/error/loading), design system use |
 | 6. Outcome & impact | Shipped? Metrics? If no data, honest about it with reflection on what they learned |
 | 7. Storytelling | Concise, logical, skimmable; a hiring manager gets the point fast |
+| 8. Writing voice & authenticity | Natural, specific and recognizably human; avoids generic, over-polished or formulaic AI-sounding language |
 
 For each case end with: **strongest point**, **the one thing most worth fixing**, and **2–3 questions an interviewer would likely probe**.
 
@@ -58,6 +59,7 @@ Check each; if present, point to where:
 - Vague or inflated outcomes ("users loved it")
 - Team members' contributions not credited
 - Typos, blurry images, broken links, poor mobile experience
+- Generic, over-polished or formulaic writing that reads like AI rather than the designer's own voice
 
 ## Step 4 — Calibrate to level
 
@@ -103,6 +105,7 @@ Keep every item to one line, written as a yes/no question the person can answer 
 - [ ] Final design shows craft, including edge states (empty / error / loading)
 - [ ] Ends with outcome — metrics if shipped, or honest reflection if not
 - [ ] Skimmable: a reader gets the story from headings and visuals alone
+- [ ] Writing sounds natural and specific, with my own voice rather than generic AI-style phrasing
 
 **Level fit**
 - [ ] The work shows the scope expected at my target level
@@ -120,4 +123,4 @@ Then add one line: *"Re-run this checklist after each round of edits — anythin
 7. Self-check checklist
 8. Close by offering a deeper pass on one case, or a mock interview on the likely follow-up questions
 
-Tone: honest and direct like a real hiring manager — no empty praise, always explain why something is a problem. Base every judgment on what they provided.
+Tone: honest and direct like a real hiring manager — no empty praise, always explain why something is a problem. Base every judgment on what they provided. When suggesting rewrites, preserve the designer's voice and meaning; do not replace their copy with generic, over-polished AI-style language.

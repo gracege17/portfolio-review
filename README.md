@@ -14,7 +14,7 @@ This repo contains the same review framework in two forms:
 The review walks through six steps:
 
 1. **First impression** — a simulated 1–3 minute screen: is it clear who you are, are the right projects on top, would a hiring manager click in?
-2. **Case study deep dive** — each project scored 1–5 on seven dimensions, with evidence quoted from your portfolio:
+2. **Case study deep dive** — each project scored 1–5 on eight dimensions, with evidence quoted from your portfolio:
    - Problem framing
    - Personal role & contribution
    - Decisions & trade-offs
@@ -22,6 +22,7 @@ The review walks through six steps:
    - Craft
    - Outcome & impact
    - Storytelling
+   - Writing voice & authenticity
 3. **Red flags** — common portfolio mistakes that quietly cost interviews.
 4. **Level calibration** — what level your portfolio currently reads as (Junior / Mid / Senior / Staff) versus the level you're targeting.
 5. **Action list** — prioritized fixes (must fix / should fix / nice to have), with concrete rewrites where useful.

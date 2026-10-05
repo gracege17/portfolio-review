@@ -28,7 +28,7 @@ Put yourself in the position of a hiring manager skimming a large pile of applic
 - **Verdict: as a hiring manager, would you click in to read more? Would you invite me to interview? Why or why not?**
 
 ### Step 2 — Deep review of each case study
-Score each project from 1 to 5 on the 7 dimensions below, and **cite specific content from my portfolio as evidence** for each score:
+Score each project from 1 to 5 on the 8 dimensions below, and **cite specific content from my portfolio as evidence** for each score:
 
 | Dimension | What to look for |
 |---|---|
@@ -39,6 +39,7 @@ Score each project from 1 to 5 on the 7 dimensions below, and **cite specific co
 | 5. Craft | Interaction detail, information architecture, visual hierarchy, edge states (empty / error / loading), design system use |
 | 6. Outcome & impact | Did it ship; is there data; if not, am I honest about it and reflective about what I learned |
 | 7. Storytelling | Is it concise, logical and skimmable; can a hiring manager get the point fast |
+| 8. Writing voice & authenticity | Does it sound natural, specific and recognizably human; does it avoid generic, over-polished or formulaic AI-sounding language |
 
 End each case with: **the strongest point**, **the one thing most worth fixing**, and **the 2–3 questions an interviewer is most likely to probe**.
 
@@ -51,6 +52,7 @@ Check each of these. If present, point to exactly where:
 - Vague or inflated outcomes (e.g. "users loved it")
 - Team members' contributions not credited
 - Typos, blurry images, broken links, poor mobile experience
+- Generic, over-polished or formulaic writing that reads like AI rather than the designer's own voice
 
 ### Step 4 — Calibrate to my target level
 Judge whether I meet the bar for my target level:
@@ -87,6 +89,7 @@ End with a short checklist I can scan in under a minute now, and reuse on my own
 - [ ] Final design shows craft, including edge states (empty / error / loading)
 - [ ] Ends with outcome — metrics if shipped, or honest reflection if not
 - [ ] Skimmable: a reader gets the story from headings and visuals alone
+- [ ] Writing sounds natural and specific, with my own voice rather than generic AI-style phrasing
 
 **Level fit**
 - [ ] The work shows the scope expected at my target level
@@ -95,6 +98,7 @@ Finish the checklist with: "Re-run this checklist after each round of edits — 
 
 ### Output requirements
 - Be honest and direct like a real hiring manager. No empty praise; when you point out a problem, explain why it's a problem.
+- When suggesting rewrites, preserve the designer's voice and meaning. Avoid replacing their copy with generic, over-polished AI-style language.
 - Base every judgment on what I've provided. Don't invent anything I didn't write; if you can't see something, say so.
 - Reply in the language I write in.
 - Keep it well structured: start with an overall verdict (one paragraph + an overall score out of 10), then go into detail.
